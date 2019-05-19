@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Genius_Challenge</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="users">Users</string>
+    <string name="add_user">Add User</string>
+    <string name="job_title">Job Title</string>
+    <string name="name">Name</string>
+</resources>
